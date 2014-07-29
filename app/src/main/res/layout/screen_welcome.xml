@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="40dp"
+    >
+
+    <TextView
+        android:id="@+id/welcome_text"
+        android:layout_below="@id/btn_say_hello"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        style="@android:style/TextAppearance.DeviceDefault.Medium"
+        android:text="Hello [SOMEONE]"/>
+
+</RelativeLayout>

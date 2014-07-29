@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Espresso App Under Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_in_screen">Async work example - Sign In</string>
+
+    <string name="screen_title_sign_in">SignIn</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="btn_label_sign_in">Sign In</string>
+    <string name="screen_title_welcome">Welcome Activity</string>
+
+</resources>
